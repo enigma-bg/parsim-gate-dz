@@ -1,4 +1,3 @@
-import json
 import requests
 
 url = "https://api.gateio.ws/api/v4/spot/order_book"
